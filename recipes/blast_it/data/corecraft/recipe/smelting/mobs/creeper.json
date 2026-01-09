@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smelting",
+
+  "category": "misc",
+
+  "group": "easter_eggs",
+
+  "ingredient": "minecraft:creeper_spawn_egg",
+
+  "result": {
+    "id": "minecraft:tnt"
+  },
+
+  "experience": 0.50,
+  "cookingtime": 200
+}

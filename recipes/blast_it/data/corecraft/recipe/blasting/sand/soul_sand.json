@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:blasting",
+
+  "category": "misc",
+
+  "group": "sand",
+
+  "ingredient": "minecraft:soul_sand",
+
+  "result": {
+    "id": "minecraft:glass"
+  },
+
+  "experience": 0.4,
+  "cookingtime": 100
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:blasting",
+
+  "category": "misc",
+
+  "group": "wood",
+
+  "ingredient": "#minecraft:logs",
+
+  "result": {
+    "id": "minecraft:charcoal"
+  },
+
+  "experience": 0.30,
+  "cookingtime": 100
+}

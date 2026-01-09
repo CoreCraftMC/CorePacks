@@ -1,11 +1,16 @@
 {
   "type": "minecraft:blasting",
+
   "category": "misc",
-  "cookingtime": 100,
-  "experience": 0.1,
+
   "group": "stone",
+
   "ingredient": "minecraft:cobblestone",
+
   "result": {
     "id": "minecraft:stone"
-  }
+  },
+
+  "experience": 0.1,
+  "cookingtime": 100
 }
