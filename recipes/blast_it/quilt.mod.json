@@ -1,10 +1,10 @@
 {
-  "schema_version":1,
+  "schema_version": 1,
   "quilt_loader": {
     "group": "me.corecraft",
     "id": "blast_it",
     "version": "26-1.0.0+mod",
-    "metadata":{
+    "metadata": {
       "name": "BlastIt",
       "description": "Adds extra blast furnace/furnace recipes",
       "contributors": {
