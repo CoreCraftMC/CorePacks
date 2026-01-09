@@ -1,0 +1,12 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+
+license = 'MIT'
+
+showAsResourcePack = false
+
+mods = [
+	{ modId = 'blast_it', version = '26-1.0.0', displayName = 'BlastIt', description = 'Adds extra blast furnace/furnace recipes', logoFile = 'blastit_pack.png', updateJSONURL = 'https://api.modrinth.com/updates/zNCrCM8y/forge_updates.json', credits = 'By CoreCraft', authors = 'ryderbelserion', displayURL = 'https://modrinth.com/project/blastit' },
+]
+
+issueTrackerURL = 'https://github.com/CoreCraftMC/CorePacks/issues'

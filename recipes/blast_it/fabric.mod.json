@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "blast_it",
+  "version": "26-1.0.0+mod",
+  "name": "BlastIt",
+  "description": "Adds extra blast furnace/furnace recipes",
+  "authors": [
+    "ryderbelserion",
+    "CoreCraft"
+  ],
+  "contact": {
+    "homepage":"https://modrinth.com/project/blastit",
+    "sources":"https://github.com/CoreCraftMC/CorePacks/tree/main/recipes/blast_it",
+    "issues":"https://github.com/CoreCraftMC/CorePacks/issues"
+  },
+  "license": "MIT",
+  "icon": "pack.png",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  }
+}

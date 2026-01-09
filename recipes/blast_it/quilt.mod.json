@@ -1,0 +1,30 @@
+{
+  "schema_version":1,
+  "quilt_loader": {
+    "group": "me.corecraft",
+    "id": "blast_it",
+    "version": "26-1.0.0+mod",
+    "metadata":{
+      "name": "BlastIt",
+      "description": "Adds extra blast furnace/furnace recipes",
+      "contributors": {
+        "ryderbelserion": "Owner",
+        "CoreCraft": "Organization"
+      },
+    "contact": {
+      "homepage": "https://modrinth.com/project/blastit",
+      "sources": "https://github.com/CoreCraftMC/CorePacks/tree/main/recipes/blast_it",
+      "issues": "https://github.com/CoreCraftMC/CorePacks/issues"
+    },
+      "icon": "pack.png"
+    },
+    "intermediate_mappings": "net.fabricmc:intermediary",
+    "depends": [
+      {
+        "id": "quilt_resource_loader",
+        "versions": "*",
+        "unless": "fabric-resource-loader-v0"
+      }
+    ]
+  }
+}
